@@ -1,0 +1,3013 @@
+1
+00:02:23,751 --> 00:02:26,755
+<i>Duty is sacrifice.</i>
+
+2
+00:02:27,856 --> 00:02:30,290
+<i>It eclipses all things,</i>
+
+3
+00:02:30,291 --> 00:02:31,961
+<i>even blood.</i>
+
+4
+00:02:33,627 --> 00:02:36,832
+<i>All men of honor
+must pay its price.</i>
+
+5
+00:02:41,436 --> 00:02:44,637
+<i>The North owes a great duty
+to the Seven Kingdoms.</i>
+
+6
+00:02:44,638 --> 00:02:47,203
+<i>One older than any oath.</i>
+
+7
+00:02:47,204 --> 00:02:49,723
+<i>Since the days
+of the First Men,</i>
+
+8
+00:02:49,724 --> 00:02:52,243
+<i>we have stood as guardians</i>
+
+9
+00:02:52,244 --> 00:02:54,017
+<i>against the cold
+and the dark.</i>
+
+10
+00:02:55,549 --> 00:02:57,315
+<i>Through its long tradition,</i>
+
+11
+00:02:57,316 --> 00:02:59,580
+<i>the Night's Watch
+cultivated its strength</i>
+
+12
+00:02:59,581 --> 00:03:01,152
+<i>from doomed men</i>
+
+13
+00:03:01,153 --> 00:03:03,823
+<i>who had their life
+as their only possession.</i>
+
+14
+00:03:03,824 --> 00:03:06,623
+<i>But my ancestor,
+Torrhen Stark,</i>
+
+15
+00:03:06,624 --> 00:03:08,694
+<i>began a tradition
+by making an offering</i>
+
+16
+00:03:08,695 --> 00:03:11,162
+<i>at the onset of winter:</i>
+
+17
+00:03:11,163 --> 00:03:13,464
+<i>one in 10 men
+from our household</i>
+
+18
+00:03:13,465 --> 00:03:16,539
+<i>was to be chosen
+to fortify the Watch.</i>
+
+19
+00:03:19,340 --> 00:03:24,675
+<i>This is not a sentence
+but an honor.</i>
+
+20
+00:03:24,676 --> 00:03:28,814
+<i>A duty embraced by all
+who serve the North.</i>
+
+21
+00:03:28,815 --> 00:03:31,050
+<i>Even by mine own kin.</i>
+
+22
+00:03:36,224 --> 00:03:38,661
+<i>The North must stand ready.</i>
+
+23
+00:03:40,027 --> 00:03:41,660
+<i>Winter is coming.</i>
+
+24
+00:03:41,661 --> 00:03:43,894
+Coming?
+What is this, then,
+
+25
+00:03:43,895 --> 00:03:46,781
+that falls from the skies
+and shivers my bones?
+
+26
+00:03:46,782 --> 00:03:49,668
+This is only a late summer snow,
+my prince.
+
+27
+00:03:49,669 --> 00:03:52,170
+In winter,
+it will cover all you see,
+
+28
+00:03:52,171 --> 00:03:54,577
+and all memories
+of warmth will be forgotten.
+
+29
+00:03:55,710 --> 00:03:57,910
+It pleases me to think
+that over a century ago
+
+30
+00:03:57,911 --> 00:04:00,583
+our ancestors treated
+in this very place.
+
+31
+00:04:01,950 --> 00:04:03,920
+The Conqueror
+and the King in the North.
+
+32
+00:04:05,687 --> 00:04:07,418
+You, at least,
+had the mercy
+
+33
+00:04:07,419 --> 00:04:09,822
+not to threaten me
+with your dragon.
+
+34
+00:04:17,998 --> 00:04:19,135
+My prince.
+
+35
+00:04:19,934 --> 00:04:21,905
+- My lord.
+- My lord.
+
+36
+00:04:22,771 --> 00:04:24,068
+M'lord.
+
+37
+00:04:24,069 --> 00:04:26,437
+Surely the great
+Torrhen Stark
+
+38
+00:04:26,438 --> 00:04:29,375
+would've sooner died
+than bent the knee.
+
+39
+00:04:29,376 --> 00:04:30,608
+Unless he believed
+the Conqueror
+
+40
+00:04:30,609 --> 00:04:32,949
+could bring unity
+to the Seven Kingdoms.
+
+41
+00:04:34,248 --> 00:04:36,013
+You are right
+in that.
+
+42
+00:04:36,014 --> 00:04:39,117
+That unity is
+now threatened.
+
+43
+00:04:39,118 --> 00:04:41,782
+The realm will soon
+tear itself apart...
+
+44
+00:04:41,783 --> 00:04:42,854
+if men do not remember
+
+45
+00:04:42,855 --> 00:04:44,593
+the oath sworn
+to King Viserys
+
+46
+00:04:44,959 --> 00:04:47,191
+and to his rightful heir.
+
+47
+00:04:47,192 --> 00:04:50,699
+Starks do not forget their oaths,
+my prince.
+
+48
+00:04:51,232 --> 00:04:54,167
+But you must know
+that my gaze is
+
+49
+00:04:54,168 --> 00:04:57,102
+forever torn between
+north and south.
+
+50
+00:04:57,103 --> 00:05:00,472
+In winter,
+my duty to the Wall is even more dire
+
+51
+00:05:00,473 --> 00:05:02,274
+than the one I owe
+to King's Landing.
+
+52
+00:05:02,275 --> 00:05:04,542
+I need my men here.
+
+53
+00:05:04,543 --> 00:05:05,773
+Whilst your men
+guard against
+
+54
+00:05:05,774 --> 00:05:07,545
+wildlings and weather,
+
+55
+00:05:07,546 --> 00:05:11,050
+the Hightowers plan
+to usurp the throne.
+
+56
+00:05:11,051 --> 00:05:13,285
+If my mother is
+to defend her claim
+
+57
+00:05:13,286 --> 00:05:14,587
+to hold the realm united,
+
+58
+00:05:14,588 --> 00:05:15,955
+she needs an army.
+
+59
+00:05:15,956 --> 00:05:16,988
+War is coming
+
+60
+00:05:16,989 --> 00:05:19,090
+to the whole
+of the realm, my lord.
+
+61
+00:05:19,091 --> 00:05:21,965
+We cannot wage it
+without the support of the North.
+
+62
+00:05:30,004 --> 00:05:32,139
+My father brought
+King Jaehaerys
+
+63
+00:05:32,140 --> 00:05:34,276
+and Queen Alysanne
+to see the Wall.
+
+64
+00:05:34,976 --> 00:05:37,643
+His Grace stood
+at this very outlook
+
+65
+00:05:37,644 --> 00:05:39,961
+and watched
+as their dragons,
+
+66
+00:05:39,962 --> 00:05:42,280
+the greatest power
+in the world,
+
+67
+00:05:42,281 --> 00:05:44,320
+refused to cross it.
+
+68
+00:05:45,954 --> 00:05:47,787
+Do you think
+my ancestors built
+
+69
+00:05:47,788 --> 00:05:49,821
+a 700-foot wall of ice
+
+70
+00:05:49,822 --> 00:05:52,295
+to keep out snow
+and savages?
+
+71
+00:05:52,961 --> 00:05:54,797
+What does
+it keep out?
+
+72
+00:05:56,831 --> 00:05:58,262
+Death.
+
+73
+00:06:06,174 --> 00:06:08,373
+I have thousands
+of graybeards
+
+74
+00:06:08,374 --> 00:06:10,843
+who've already seen
+too many winters.
+
+75
+00:06:10,844 --> 00:06:14,213
+They are...
+well-honed.
+
+76
+00:06:14,214 --> 00:06:15,884
+So they're old?
+
+77
+00:06:16,752 --> 00:06:19,619
+I can ready them
+to march at once.
+
+78
+00:06:19,620 --> 00:06:21,454
+If your graybeards
+can fight,
+
+79
+00:06:21,455 --> 00:06:23,289
+the queen
+will have them.
+
+80
+00:06:23,290 --> 00:06:25,121
+They will fight hard.
+
+81
+00:06:25,122 --> 00:06:26,953
+Like Northerners.
+
+82
+00:06:26,954 --> 00:06:28,126
+My lord?
+
+83
+00:06:28,127 --> 00:06:31,330
+A raven's arrived.
+
+84
+00:06:31,331 --> 00:06:33,269
+Urgent news
+from Dragonstone.
+
+85
+00:07:15,776 --> 00:07:19,148
+Take your mount again.
+We're flying out.
+
+86
+00:07:21,815 --> 00:07:25,417
+I alone patrol over
+a hundred miles of open sea,
+
+87
+00:07:25,418 --> 00:07:29,187
+endlessly,
+to hold the blockade.
+
+88
+00:07:29,188 --> 00:07:32,728
+Meleys must gorge
+and rest, as must I.
+
+89
+00:07:34,229 --> 00:07:36,729
+- We're going to King's Landing.
+- To what end?
+
+90
+00:07:36,730 --> 00:07:38,296
+Killing Vhagar.
+
+91
+00:07:38,297 --> 00:07:41,367
+I cannot face that
+hoary old bitch alone.
+
+92
+00:07:41,368 --> 00:07:43,452
+With my dragon
+and yours together,
+
+93
+00:07:43,453 --> 00:07:45,538
+we can kill Vhagar
+and her rider.
+
+94
+00:07:45,539 --> 00:07:46,842
+Make it a son for a son.
+
+95
+00:07:49,177 --> 00:07:51,877
+- Was this the queen's command?
+- The queen remains absent.
+
+96
+00:07:51,878 --> 00:07:53,910
+I should be
+at Harrenhal bending knees,
+
+97
+00:07:53,911 --> 00:07:56,597
+but I must instead
+remain here to wage her war.
+
+98
+00:07:56,598 --> 00:07:59,283
+Or perhaps, more simply,
+to await her return.
+
+99
+00:07:59,284 --> 00:08:02,654
+She has been gone for days.
+Too long. She is exposed.
+
+100
+00:08:02,655 --> 00:08:04,957
+- She is grieving.
+- The mother grieves
+
+101
+00:08:04,958 --> 00:08:07,363
+as the queen
+shirks her duties.
+
+102
+00:08:09,297 --> 00:08:12,601
+It was a raven that brought me news
+of Laena's death.
+
+103
+00:08:13,601 --> 00:08:15,771
+I existed for weeks
+in torment...
+
+104
+00:08:16,838 --> 00:08:19,775
+refusing to believe
+what I'd been told.
+
+105
+00:08:21,776 --> 00:08:24,510
+It was only when
+I saw my daughter's mortal remains
+
+106
+00:08:24,511 --> 00:08:26,983
+that I could begin
+to mourn her.
+
+107
+00:08:29,317 --> 00:08:32,956
+A raven has told Rhaenyra
+that her son is dead.
+
+108
+00:08:34,121 --> 00:08:35,621
+She needs to know it
+for certain.
+
+109
+00:08:35,622 --> 00:08:37,693
+She was a fool
+to go alone.
+
+110
+00:08:38,459 --> 00:08:40,092
+What if Aemond were
+to happen upon her?
+
+111
+00:08:40,093 --> 00:08:41,897
+Then I would pity Aemond.
+
+112
+00:08:44,532 --> 00:08:46,730
+The queen was wise
+to recuse herself.
+
+113
+00:08:47,829 --> 00:08:51,874
+She has not acted on the vengeful impulse
+that others might have.
+
+114
+00:08:53,241 --> 00:08:56,442
+If you'd have acted
+when you had the chance...
+
+115
+00:08:56,443 --> 00:08:59,082
+Aegon's line would
+be extinguished.
+
+116
+00:09:00,415 --> 00:09:02,685
+And Luke
+would be alive.
+
+117
+00:09:09,858 --> 00:09:11,493
+Fly with me.
+
+118
+00:09:12,260 --> 00:09:15,831
+- It is a command.
+- Would that you were the king.
+
+119
+00:10:25,667 --> 00:10:26,802
+M'lord.
+
+120
+00:10:29,603 --> 00:10:32,841
+It's a marvel she was able to return
+from the Stepstones at all.
+
+121
+00:10:35,237 --> 00:10:37,046
+Barely done,
+but done.
+
+122
+00:10:37,478 --> 00:10:41,246
+Seven more ships put out to sea
+this morn' to fortify the blockade.
+
+123
+00:10:41,247 --> 00:10:43,649
+The Gullet is vast,
+and we're not like to have the numbers
+
+124
+00:10:43,650 --> 00:10:45,922
+to cover all
+that open water.
+
+125
+00:10:48,617 --> 00:10:50,457
+{\an8}I must have my ship back at sea
+
+126
+00:10:50,458 --> 00:10:51,822
+{\an8}to lead the effort.
+
+127
+00:10:51,823 --> 00:10:54,497
+{\an8}It'll be many weeks yet,
+I'd wager.
+
+128
+00:10:56,330 --> 00:10:58,795
+But I'll have a word
+with my brother...
+
+129
+00:10:58,796 --> 00:11:02,038
+to see what reinforcements
+the shipwrights can muster.
+
+130
+00:11:11,980 --> 00:11:14,650
+The smithy delivered
+this earlier.
+
+131
+00:11:16,818 --> 00:11:18,021
+M'lord?
+
+132
+00:11:26,694 --> 00:11:29,693
+I had this commissioned
+for Prince Lucerys.
+
+133
+00:11:31,998 --> 00:11:34,970
+I was very sorry
+to hear about your heir's death.
+
+134
+00:11:35,503 --> 00:11:37,506
+'Twas the blackest
+of treacheries.
+
+135
+00:11:40,807 --> 00:11:45,644
+Pardon, m'lord,
+if it'll please you, much to do.
+
+136
+00:11:45,645 --> 00:11:47,331
+They tell me that
+you are the one
+
+137
+00:11:47,332 --> 00:11:49,018
+that dragged my body
+out of the sea.
+
+138
+00:11:54,388 --> 00:11:56,025
+It was only
+my duty.
+
+139
+00:12:00,561 --> 00:12:03,699
+I am indebted
+to you, Alyn.
+
+140
+00:12:43,271 --> 00:12:44,908
+Mind your posts!
+
+141
+00:12:47,809 --> 00:12:49,812
+Keep your focus, men!
+
+142
+00:12:53,414 --> 00:12:55,915
+- Dragon!
+- Dragon!
+
+143
+00:12:55,916 --> 00:12:57,548
+Arm the scorpion!
+
+144
+00:12:57,549 --> 00:12:59,783
+Arm the scorpion!
+
+145
+00:13:01,655 --> 00:13:04,056
+Approaching
+from the southeast!
+
+146
+00:13:04,057 --> 00:13:05,356
+Get around!
+
+147
+00:13:09,797 --> 00:13:11,429
+Scorpion ready!
+
+148
+00:13:11,430 --> 00:13:14,299
+- Halt!
+- Halt!
+
+149
+00:13:16,535 --> 00:13:18,220
+Stand down,
+it's Vhagar!
+
+150
+00:13:18,221 --> 00:13:19,998
+Stand down!
+
+151
+00:13:19,999 --> 00:13:21,777
+Standing down!
+
+152
+00:13:48,670 --> 00:13:50,506
+Where is Jaehaerys?
+
+153
+00:13:51,840 --> 00:13:53,837
+Attending his lessons.
+
+154
+00:13:54,643 --> 00:13:56,407
+And those are where?
+
+155
+00:13:56,408 --> 00:13:57,909
+What do you
+need of him?
+
+156
+00:13:57,910 --> 00:14:00,079
+Taking him
+to the small council.
+
+157
+00:14:00,080 --> 00:14:01,112
+He'll be king one day.
+
+158
+00:14:01,113 --> 00:14:03,051
+He must begin
+his instruction.
+
+159
+00:14:03,451 --> 00:14:05,654
+What if he does not
+want to be king?
+
+160
+00:14:06,821 --> 00:14:08,148
+Where is he?
+
+161
+00:14:08,149 --> 00:14:09,285
+The library.
+
+162
+00:14:09,651 --> 00:14:12,128
+You must not
+interrupt his custom.
+
+163
+00:14:18,867 --> 00:14:20,536
+I'm afraid.
+
+164
+00:14:23,004 --> 00:14:24,205
+Don't be.
+
+165
+00:14:24,905 --> 00:14:27,674
+They'd be fools
+to come with Vhagar protecting the city.
+
+166
+00:14:27,675 --> 00:14:29,712
+Not the dragons.
+
+167
+00:14:30,579 --> 00:14:31,814
+The rats.
+
+168
+00:14:40,822 --> 00:14:43,226
+The queen is
+an enduring mystery...
+
+169
+00:14:43,992 --> 00:14:45,394
+is she not?
+
+170
+00:15:19,260 --> 00:15:21,030
+There's a chill
+in the air.
+
+171
+00:15:25,299 --> 00:15:27,536
+Summer is well
+and truly through.
+
+172
+00:15:29,037 --> 00:15:31,874
+We are expected at the small council,
+Your Grace.
+
+173
+00:15:47,556 --> 00:15:48,953
+We cannot.
+
+174
+00:15:49,658 --> 00:15:50,893
+Again.
+
+175
+00:15:53,895 --> 00:15:55,498
+Yes, Your Grace.
+
+176
+00:16:00,235 --> 00:16:02,238
+If you wouldn't mind?
+
+177
+00:16:35,270 --> 00:16:37,670
+- Your Grace.
+- Good day.
+
+178
+00:16:42,042 --> 00:16:44,410
+Hello! Jaehaerys must learn
+the ways of the court
+
+179
+00:16:44,411 --> 00:16:46,446
+if he is to rule
+one day.
+
+180
+00:16:46,447 --> 00:16:48,684
+Up we go.
+
+181
+00:16:49,651 --> 00:16:52,084
+Good morrow,
+my lords.
+
+182
+00:16:52,085 --> 00:16:53,089
+Mother.
+
+183
+00:16:55,290 --> 00:16:57,116
+What news?
+
+184
+00:16:57,117 --> 00:16:59,659
+Our letters to the Vale
+and to the North
+
+185
+00:16:59,660 --> 00:17:01,864
+continue to go unanswered.
+
+186
+00:17:02,464 --> 00:17:03,466
+Cunts.
+
+187
+00:17:05,133 --> 00:17:07,166
+The Stormlands should be ours
+
+188
+00:17:07,167 --> 00:17:09,201
+after Prince Aemond's
+marriage pact
+
+189
+00:17:09,202 --> 00:17:11,468
+to the Lady
+Floris Baratheon.
+
+190
+00:17:11,469 --> 00:17:13,671
+I anticipate their
+sworn declaration.
+
+191
+00:17:13,672 --> 00:17:17,777
+My brother is raising
+the strength of the West
+
+192
+00:17:17,778 --> 00:17:20,880
+to mass at the Golden Tooth,
+but we...
+
+193
+00:17:20,881 --> 00:17:22,932
+Yeah, thank you,
+my prince.
+
+194
+00:17:22,933 --> 00:17:24,984
+That's, that's
+very helpful.
+
+195
+00:17:24,985 --> 00:17:26,517
+My nephew,
+Lord Ormund,
+
+196
+00:17:26,518 --> 00:17:29,789
+musters his forces
+to sally forth from Oldtown.
+
+197
+00:17:29,790 --> 00:17:31,322
+They expect
+to march quickly,
+
+198
+00:17:31,323 --> 00:17:34,826
+meeting little resistance,
+until they reach the Riverlands.
+
+199
+00:17:34,827 --> 00:17:36,796
+My letters to Rhaenyra.
+Has there been any answer?
+
+200
+00:17:36,797 --> 00:17:39,493
+An apology
+for her dead son?
+
+201
+00:17:39,494 --> 00:17:41,032
+None, Your Grace.
+
+202
+00:17:41,033 --> 00:17:43,185
+Between that
+and their blockade of the Gullet,
+
+203
+00:17:43,186 --> 00:17:45,338
+we must presume
+that the princess has refused
+
+204
+00:17:45,339 --> 00:17:46,871
+the offered terms,
+
+205
+00:17:46,872 --> 00:17:49,507
+and that war
+is now inevitable.
+
+206
+00:17:49,508 --> 00:17:51,477
+- Na-na!
+- Perhaps Your Grace might lend
+
+207
+00:17:51,478 --> 00:17:53,782
+- his voice to our outreach...
+- Stop! Enough!
+
+208
+00:17:54,515 --> 00:17:56,916
+...in hopes that new terms
+might, might be negotiated.
+
+209
+00:17:56,917 --> 00:17:59,817
+Release it at once!
+Would someone please?
+
+210
+00:17:59,818 --> 00:18:02,758
+Is the heir to the throne
+bothering you, Tyland?
+
+211
+00:18:04,258 --> 00:18:07,894
+No. No, no, not,
+not in the least, Your Grace.
+
+212
+00:18:07,895 --> 00:18:10,361
+Because I think
+he wants a ride.
+
+213
+00:18:10,362 --> 00:18:11,597
+- Your Grace.
+- Uh, a ride?
+
+214
+00:18:11,598 --> 00:18:13,164
+A pony ride.
+
+215
+00:18:13,165 --> 00:18:14,765
+Wouldn't that be fun,
+Jaehaerys?
+
+216
+00:18:14,766 --> 00:18:17,236
+Should the Master of Coin
+be your royal steed?
+
+217
+00:18:26,415 --> 00:18:28,712
+Your Grace!
+
+218
+00:18:28,713 --> 00:18:30,954
+There are important
+matters to discuss...
+
+219
+00:18:32,387 --> 00:18:34,223
+despite Sir Tyland's
+interruptions.
+
+220
+00:18:35,757 --> 00:18:37,889
+Very well.
+
+221
+00:18:37,890 --> 00:18:40,329
+No time for amusements,
+Tyland.
+
+222
+00:18:41,763 --> 00:18:42,966
+Your Grace.
+
+223
+00:18:44,060 --> 00:18:46,469
+Off you go, Jaehaerys.
+Good boy.
+
+224
+00:18:48,970 --> 00:18:50,606
+Where were we?
+
+225
+00:18:52,105 --> 00:18:56,308
+Rhaenyra's blockade has
+placed King's Landing under strain.
+
+226
+00:18:56,309 --> 00:18:58,709
+And those pressures
+will multiply quickly.
+
+227
+00:18:58,710 --> 00:19:01,579
+Well, we should've just killed her
+when we had the chance.
+
+228
+00:19:01,580 --> 00:19:04,865
+Regrettably, the opportunity
+for surprise has been lost,
+
+229
+00:19:04,866 --> 00:19:08,152
+and with it, the chance to end
+this conflict quickly.
+
+230
+00:19:09,523 --> 00:19:11,622
+We must play
+the board before us.
+
+231
+00:19:11,623 --> 00:19:14,291
+If we are to break
+the Sea Snake's blockade,
+
+232
+00:19:14,292 --> 00:19:16,996
+we will need to bolster both the Lannister
+and Hightower navies.
+
+233
+00:19:16,997 --> 00:19:19,730
+We do have need
+for a new Master of Ships.
+
+234
+00:19:19,731 --> 00:19:23,068
+We could offer the title
+to the young Lord Dalton Greyjoy.
+
+235
+00:19:23,069 --> 00:19:25,271
+Aemond. What is
+your business here?
+
+236
+00:19:25,272 --> 00:19:26,503
+The king summoned me.
+
+237
+00:19:26,504 --> 00:19:28,305
+You do not have a seat
+at this council.
+
+238
+00:19:28,306 --> 00:19:31,611
+Aemond is my closest blood
+and our best sword.
+
+239
+00:19:31,612 --> 00:19:33,081
+I welcome him.
+
+240
+00:19:33,781 --> 00:19:37,116
+Path to King's Landing
+is through the Riverlands.
+
+241
+00:19:37,117 --> 00:19:39,785
+We must establish a toehold there,
+at Harrenhal.
+
+242
+00:19:39,786 --> 00:19:42,638
+The Riverlords will
+either declare for me,
+
+243
+00:19:42,639 --> 00:19:45,490
+or they will meet Vhagar
+and Sunfyre together.
+
+244
+00:19:45,491 --> 00:19:47,826
+Ah, and-and we can burn the blockade
+while we're at it.
+
+245
+00:19:47,827 --> 00:19:49,793
+- Rhaenyra has dragons as well.
+- Mine are bigger.
+
+246
+00:19:49,794 --> 00:19:52,264
+If we lose the dragons to war,
+there'll be no calling them back.
+
+247
+00:19:52,265 --> 00:19:53,864
+- We must proceed cautiously.
+- No.
+
+248
+00:19:53,865 --> 00:19:58,004
+Fat, old Lord Tully will either raise my banner
+or see his burn.
+
+249
+00:19:58,005 --> 00:20:00,108
+We should fly
+to Riverrun.
+
+250
+00:20:00,541 --> 00:20:02,173
+You are the king,
+Your Grace.
+
+251
+00:20:02,174 --> 00:20:03,674
+You must not put
+yourself at risk.
+
+252
+00:20:03,675 --> 00:20:06,445
+And Vhagar is needed here
+to deter Rhaenyra from attacking
+
+253
+00:20:06,446 --> 00:20:09,118
+in retribution
+for the death of her son.
+
+254
+00:20:10,151 --> 00:20:14,487
+Errors were made in the hours following
+King Viserys's death.
+
+255
+00:20:14,488 --> 00:20:16,725
+We mustn't
+compound them.
+
+256
+00:20:18,326 --> 00:20:20,958
+You've already demonstrated
+your might, Your Grace.
+
+257
+00:20:20,959 --> 00:20:25,297
+We must now favor patience and restraint.
+
+258
+00:20:25,298 --> 00:20:27,065
+I send ravens
+by the hour.
+
+259
+00:20:27,066 --> 00:20:31,470
+Many and more houses
+will declare for you in time.
+
+260
+00:20:31,471 --> 00:20:34,643
+History and precedent
+will come to your side.
+
+261
+00:20:42,416 --> 00:20:43,866
+Good morrow,
+Your Grace.
+
+262
+00:20:43,867 --> 00:20:45,316
+Good morrow,
+Lord Larys.
+
+263
+00:20:45,317 --> 00:20:47,185
+I had come earlier
+to have a word
+
+264
+00:20:47,186 --> 00:20:49,053
+before the small
+council convened,
+
+265
+00:20:49,054 --> 00:20:53,596
+but your handmaiden said
+that you were indisposed.
+
+266
+00:20:56,865 --> 00:20:58,968
+What is it
+you wish to discuss?
+
+267
+00:21:00,934 --> 00:21:04,373
+I have completed questioning
+the whole of the castle staff.
+
+268
+00:21:05,539 --> 00:21:07,372
+They produced rather
+interesting details,
+
+269
+00:21:07,373 --> 00:21:12,048
+but I am satisfied I have exposed
+all who betrayed our trust.
+
+270
+00:21:13,882 --> 00:21:15,084
+And what of them?
+
+271
+00:21:16,550 --> 00:21:18,754
+They no longer
+breathe our air.
+
+272
+00:21:20,922 --> 00:21:24,560
+I have chosen your
+new staff personally.
+
+273
+00:21:42,944 --> 00:21:45,078
+St... Gi-Give me that.
+
+274
+00:21:45,079 --> 00:21:47,165
+Your Grace?
+
+275
+00:21:47,166 --> 00:21:49,252
+Just leave me.
+
+276
+00:21:50,918 --> 00:21:52,956
+Just le... Just le...
+Just leave me.
+
+277
+00:22:35,761 --> 00:22:37,967
+- It's a dragon wing!
+- Let's have a look!
+
+278
+00:22:39,567 --> 00:22:41,570
+- It's a wing.
+- Who cares what it is.
+
+279
+00:22:42,504 --> 00:22:44,339
+Dragon!
+
+280
+00:24:10,856 --> 00:24:14,059
+All hail King Aegon!
+
+281
+00:24:14,060 --> 00:24:16,527
+"Aegon the Magnanimous,"
+
+282
+00:24:16,528 --> 00:24:19,060
+Second of His Name,
+King of the Andals,
+
+283
+00:24:19,061 --> 00:24:21,593
+and the Rhoynar,
+and the First Men,
+
+284
+00:24:21,594 --> 00:24:24,871
+Lord of the Seven Kingdoms,
+and Protector of the Realm.
+
+285
+00:24:24,872 --> 00:24:26,910
+Hail King Aegon!
+
+286
+00:24:27,609 --> 00:24:29,245
+"The Magnanimous"?
+
+287
+00:24:32,947 --> 00:24:34,182
+Your Grace.
+
+288
+00:24:34,781 --> 00:24:37,820
+Let's have the first petition,
+my good Lord Hand.
+
+289
+00:24:42,256 --> 00:24:44,090
+Good morrow,
+my, uh, Your Grace.
+
+290
+00:24:44,091 --> 00:24:45,825
+It's alright.
+
+291
+00:24:45,826 --> 00:24:47,560
+There's no reason
+to be nervous.
+
+292
+00:24:47,561 --> 00:24:48,727
+What's your name?
+
+293
+00:24:48,728 --> 00:24:50,963
+Gr... Uh, Jerard,
+Your Grace.
+
+294
+00:24:50,964 --> 00:24:53,064
+Good morrow,
+Jerard.
+
+295
+00:24:53,065 --> 00:24:55,668
+And how might your king
+be of service?
+
+296
+00:24:55,669 --> 00:24:57,373
+'Tis my flock.
+
+297
+00:24:58,373 --> 00:25:02,011
+Uh, a-a-a tenth
+of them taken by...
+
+298
+00:25:04,011 --> 00:25:06,946
+the Crown on...
+
+299
+00:25:06,947 --> 00:25:09,180
+on the cusp
+of winter.
+
+300
+00:25:09,181 --> 00:25:12,188
+- If I'd had the time to plan...
+- We should return them.
+
+301
+00:25:15,289 --> 00:25:16,856
+- Your Grace?
+- Well, you need
+
+302
+00:25:16,857 --> 00:25:18,423
+your goats for the winter,
+don't you?
+
+303
+00:25:18,424 --> 00:25:21,260
+- Sheep, Your-Your Grace.
+- Sheep, even better.
+
+304
+00:25:21,261 --> 00:25:23,630
+I shall make your
+flock of sheep whole.
+
+305
+00:25:25,430 --> 00:25:27,934
+We already made a promise
+to all the Crownlands
+
+306
+00:25:27,935 --> 00:25:30,329
+that a tithing
+of livestock
+
+307
+00:25:30,330 --> 00:25:32,605
+would be necessary
+to sustain the dragons
+
+308
+00:25:32,606 --> 00:25:34,038
+for their
+increased activity
+
+309
+00:25:34,039 --> 00:25:37,080
+and, pray not,
+eventual fighting.
+
+310
+00:25:37,746 --> 00:25:39,844
+Right... Right.
+
+311
+00:25:39,845 --> 00:25:42,880
+Perhaps we could just return his sheep.
+He came all this way.
+
+312
+00:25:42,881 --> 00:25:45,549
+If you return one herder's sheep,
+Your Grace,
+
+313
+00:25:45,550 --> 00:25:48,015
+you will soon find them all at the foot
+of your throne
+
+314
+00:25:48,016 --> 00:25:49,953
+expecting the same.
+
+315
+00:25:49,954 --> 00:25:51,890
+They won't know.
+
+316
+00:25:51,891 --> 00:25:58,167
+When the king speaks,
+Your Grace, all hear it.
+
+317
+00:26:06,740 --> 00:26:09,742
+After further thought,
+I have decided that
+
+318
+00:26:09,743 --> 00:26:11,610
+I cannot restore
+your sheep.
+
+319
+00:26:11,611 --> 00:26:13,495
+If war were
+to break out,
+
+320
+00:26:13,496 --> 00:26:15,380
+my dragons
+will require feed.
+
+321
+00:26:15,381 --> 00:26:18,215
+Bring the next.
+
+322
+00:26:18,216 --> 00:26:21,887
+Salts always run scarce
+on the road to winter,
+
+323
+00:26:21,888 --> 00:26:22,921
+Your Grace.
+
+324
+00:26:22,922 --> 00:26:24,824
+We rely on ships
+from Essos
+
+325
+00:26:24,825 --> 00:26:26,357
+for our supply.
+
+326
+00:26:26,358 --> 00:26:29,594
+But now, with a blockade in place
+and war threatening...
+
+327
+00:26:29,595 --> 00:26:31,663
+Yeah, that treasonous
+blockade won't last long.
+
+328
+00:26:31,664 --> 00:26:34,200
+I plan to send Vhagar
+to burn it to ash.
+
+329
+00:26:34,201 --> 00:26:35,886
+Bring the next.
+
+330
+00:26:39,541 --> 00:26:41,144
+Hugh, Your Grace.
+
+331
+00:26:44,613 --> 00:26:46,111
+The smiths
+are all proud
+
+332
+00:26:46,112 --> 00:26:48,384
+to support Your Grace
+against Rhaenyra.
+
+333
+00:26:52,120 --> 00:26:53,254
+But?
+
+334
+00:26:53,255 --> 00:26:54,390
+But...
+
+335
+00:26:56,091 --> 00:26:58,956
+iron costs have grown.
+
+336
+00:26:58,957 --> 00:27:02,464
+A lone scorpion
+takes weeks to build.
+
+337
+00:27:03,231 --> 00:27:05,435
+To put it simply,
+we are struggling.
+
+338
+00:27:06,267 --> 00:27:10,737
+If we could but have
+the Crown's coin before we started work,
+
+339
+00:27:10,738 --> 00:27:12,736
+it would bring
+great relief.
+
+340
+00:27:12,737 --> 00:27:16,079
+Not just to me,
+but to all the smiths serving your cause.
+
+341
+00:27:20,648 --> 00:27:23,686
+You shall be paid
+and paid well.
+
+342
+00:27:24,119 --> 00:27:26,385
+My army cannot win a war
+without your weapons.
+
+343
+00:27:26,386 --> 00:27:28,390
+You should continue
+their making.
+
+344
+00:27:28,789 --> 00:27:32,595
+Our victory depends
+on the efforts of the smallfolk.
+
+345
+00:27:34,996 --> 00:27:38,130
+You have my most sincere
+gratitude, Your Grace.
+
+346
+00:27:38,131 --> 00:27:40,169
+I'll hear
+the next petition.
+
+347
+00:27:47,775 --> 00:27:50,810
+Your Grace, it filled my heart
+to see you on the Iron Throne.
+
+348
+00:27:50,811 --> 00:27:53,846
+I was only a boy when Jaehaerys last graced the seat,
+
+349
+00:27:53,847 --> 00:27:55,313
+but you brought forth
+memories of him,
+
+350
+00:27:55,314 --> 00:27:57,450
+and you have such a deft touch
+with the smallfolk,
+
+351
+00:27:57,451 --> 00:27:59,284
+just as your father did.
+
+352
+00:27:59,285 --> 00:28:00,723
+Thank you, my lord.
+
+353
+00:28:01,222 --> 00:28:03,459
+I wonder,
+do you have a moment for a quiet word?
+
+354
+00:28:09,530 --> 00:28:12,932
+It is the Hand's wont
+to keep a firm grip on things.
+
+355
+00:28:12,933 --> 00:28:13,970
+Mm.
+
+356
+00:28:15,169 --> 00:28:17,073
+He controlled your father
+the same way.
+
+357
+00:28:18,839 --> 00:28:21,474
+Viserys had a certain reputation
+as being pliable.
+
+358
+00:28:21,475 --> 00:28:22,912
+I am aware.
+
+359
+00:28:24,579 --> 00:28:26,945
+I would think,
+as we find ourselves
+
+360
+00:28:26,946 --> 00:28:29,180
+standing within a hair's
+breadth of war,
+
+361
+00:28:29,181 --> 00:28:32,088
+that you would wish
+to be viewed differently.
+
+362
+00:28:35,357 --> 00:28:36,721
+How?
+
+363
+00:28:36,722 --> 00:28:38,427
+Otto Hightower...
+
+364
+00:28:39,861 --> 00:28:42,798
+was your father's Hand,
+Your Grace.
+
+365
+00:28:59,414 --> 00:29:00,616
+Daughter.
+
+366
+00:29:01,849 --> 00:29:04,453
+I requested
+an audience hours ago.
+
+367
+00:29:05,754 --> 00:29:09,592
+There were
+many petitions.
+
+368
+00:29:12,259 --> 00:29:14,097
+I find myself wondering...
+
+369
+00:29:15,262 --> 00:29:17,066
+do we pursue the same end?
+
+370
+00:29:19,132 --> 00:29:22,571
+I must admit, there are days
+where I myself can't be sure.
+
+371
+00:29:24,305 --> 00:29:26,309
+I shall tell you mine.
+
+372
+00:29:27,942 --> 00:29:29,440
+It's victory.
+
+373
+00:29:29,441 --> 00:29:32,277
+And how would you
+define "victory"?
+
+374
+00:29:32,278 --> 00:29:34,245
+Rhaenyra bending the knee
+
+375
+00:29:34,246 --> 00:29:36,885
+and Aegon sitting
+the Iron Throne, in peace.
+
+376
+00:29:37,652 --> 00:29:39,183
+As Viserys wished.
+
+377
+00:29:39,184 --> 00:29:42,855
+Well, if that's how you describe it,
+then we are aligned.
+
+378
+00:29:42,856 --> 00:29:44,956
+- Then be my ally.
+- I am.
+
+379
+00:29:44,957 --> 00:29:46,875
+An ally would not
+repeatedly cut my legs
+
+380
+00:29:46,876 --> 00:29:48,793
+from beneath me
+at that table of men!
+
+381
+00:29:48,794 --> 00:29:52,464
+- I sit there and I feel your anger.
+- Frustration.
+
+382
+00:29:52,465 --> 00:29:55,132
+These critical days
+since Viserys's passing
+
+383
+00:29:55,133 --> 00:29:57,801
+- haven't gone to plan.
+- That's not my fault.
+
+384
+00:29:59,340 --> 00:30:02,374
+My sons both see you
+as the great example.
+
+385
+00:30:02,375 --> 00:30:03,579
+The Hand to three kings.
+
+386
+00:30:05,313 --> 00:30:07,146
+Aegon is ever-eager
+to prove himself
+
+387
+00:30:07,147 --> 00:30:08,617
+and Aemond...
+
+388
+00:30:10,246 --> 00:30:11,854
+Aemond is angry.
+
+389
+00:30:13,421 --> 00:30:17,058
+Rhaenyra's son took his eye
+and was never punished for it.
+
+390
+00:30:17,059 --> 00:30:20,696
+- What he did, however vicious...
+- The caprice of youth.
+
+391
+00:30:24,766 --> 00:30:26,599
+I could only hope.
+
+392
+00:30:26,600 --> 00:30:29,767
+Aemond erred.
+
+393
+00:30:29,768 --> 00:30:33,272
+But he is fiercely loyal.
+He wishes to please.
+
+394
+00:30:33,273 --> 00:30:34,908
+And Aegon
+still heeds me.
+
+395
+00:30:34,909 --> 00:30:36,545
+In private,
+at least.
+
+396
+00:30:38,112 --> 00:30:39,510
+But if you
+undermine my voice,
+
+397
+00:30:39,511 --> 00:30:41,341
+both those boys
+will grow deaf to it.
+
+398
+00:30:49,791 --> 00:30:52,024
+I hadn't seen it
+that way.
+
+399
+00:30:52,025 --> 00:30:54,258
+We only need to mind Aegon
+
+400
+00:30:54,259 --> 00:30:56,498
+until the novelty
+of rule is spent.
+
+401
+00:30:57,398 --> 00:31:00,533
+Once he tires of it,
+you and I can steer our cause to victory.
+
+402
+00:31:00,534 --> 00:31:03,205
+A fine strategy, daughter.
+
+403
+00:31:03,871 --> 00:31:09,512
+But you must accept that the path
+to victory now is one of violence.
+
+404
+00:31:10,512 --> 00:31:12,148
+I know it.
+
+405
+00:31:15,884 --> 00:31:18,087
+But that does not mean
+it must be wanton.
+
+406
+00:31:20,422 --> 00:31:21,424
+No.
+
+407
+00:31:38,239 --> 00:31:40,509
+Prepare to be boarded!
+
+408
+00:31:43,111 --> 00:31:46,310
+By the order
+of Lord Corlys Velaryon!
+
+409
+00:31:46,311 --> 00:31:48,981
+Search the hold for stowaways!
+
+410
+00:32:16,544 --> 00:32:17,546
+You.
+
+411
+00:32:20,081 --> 00:32:23,286
+When last we met,
+there were two of you.
+
+412
+00:32:25,554 --> 00:32:27,052
+"The White Worm."
+
+413
+00:32:27,053 --> 00:32:29,621
+Did you think I would
+wither in your absence?
+
+414
+00:32:29,622 --> 00:32:32,324
+I did not think you
+would flower a traitor.
+
+415
+00:32:32,325 --> 00:32:35,026
+You speak of highborn games.
+I am common-born.
+
+416
+00:32:35,027 --> 00:32:37,529
+How long have you been selling secrets
+to Otto Hightower?
+
+417
+00:32:37,530 --> 00:32:39,568
+As long as he had gold
+to pay for them.
+
+418
+00:32:41,936 --> 00:32:46,142
+Who sent you fleeing from King's Landing
+in such disrepair, hm?
+
+419
+00:32:47,670 --> 00:32:49,708
+You put Aegon
+on the throne.
+
+420
+00:32:49,709 --> 00:32:51,809
+That was
+the Hightowers' conspiracy.
+
+421
+00:32:51,810 --> 00:32:54,379
+I merely profited
+from knowing Aegon's movements.
+
+422
+00:32:54,380 --> 00:32:55,946
+But you delivered him.
+
+423
+00:32:55,947 --> 00:32:58,884
+He would've returned home eventually
+for gold and for respite,
+
+424
+00:32:58,885 --> 00:33:00,051
+as he always does.
+
+425
+00:33:00,052 --> 00:33:03,154
+I simply... simply sped
+the business along.
+
+426
+00:33:03,155 --> 00:33:05,223
+"Business" that ended with the theft
+of the queen's throne
+
+427
+00:33:05,224 --> 00:33:06,457
+and the murder
+of her son.
+
+428
+00:33:06,458 --> 00:33:08,428
+You only blame me
+because your true enemies
+
+429
+00:33:08,429 --> 00:33:10,099
+are out of reach.
+
+430
+00:33:11,628 --> 00:33:13,130
+My arrangement
+with the Hand
+
+431
+00:33:13,131 --> 00:33:14,867
+was purely
+transactional.
+
+432
+00:33:14,868 --> 00:33:16,605
+I held no loyalty to him.
+
+433
+00:33:17,271 --> 00:33:19,207
+Certainly do not now.
+
+434
+00:33:19,806 --> 00:33:24,576
+Otto Hightower was to me
+as I am to your noble ilk, fodder to be cast off.
+
+435
+00:33:24,577 --> 00:33:26,245
+What else do you know of him?
+His plans?
+
+436
+00:33:26,246 --> 00:33:27,883
+Little and less.
+
+437
+00:33:31,119 --> 00:33:34,323
+I possess nothing
+of value to you, Daemon.
+
+438
+00:33:57,345 --> 00:33:58,843
+Have her moved
+to the cells.
+
+439
+00:33:58,844 --> 00:34:01,517
+She is to be treated
+as a traitor to the crown.
+
+440
+00:34:04,252 --> 00:34:06,068
+Forgive me, my prince...
+
+441
+00:34:06,069 --> 00:34:07,885
+but the lady
+speaks the truth.
+
+442
+00:34:07,886 --> 00:34:11,160
+- She was no agent of the Hightowers.
+- What is it to you?
+
+443
+00:34:11,725 --> 00:34:14,492
+- A matter of honor.
+- Was it honor that made you stand by and watch
+
+444
+00:34:14,493 --> 00:34:17,196
+as the Hightowers
+usurped the throne?
+
+445
+00:34:17,197 --> 00:34:19,732
+You and your
+traitorous twin.
+
+446
+00:34:19,733 --> 00:34:21,770
+No, my prince.
+
+447
+00:34:23,171 --> 00:34:24,607
+I'm shamed by it.
+
+448
+00:34:25,206 --> 00:34:27,405
+That's why I abandoned
+the Kingsguard,
+
+449
+00:34:27,406 --> 00:34:29,376
+and my brother,
+and came here.
+
+450
+00:34:29,377 --> 00:34:31,047
+I don't care.
+
+451
+00:34:31,913 --> 00:34:32,911
+Aegon was
+in your grasp.
+
+452
+00:34:32,912 --> 00:34:34,845
+You should've
+killed him yourself.
+
+453
+00:34:34,846 --> 00:34:38,383
+Arryk and I were named
+to the Kingsguard at just 8 and 10.
+
+454
+00:34:38,384 --> 00:34:40,585
+And we swore
+the same oath:
+
+455
+00:34:40,586 --> 00:34:44,087
+to defend the whole
+of the royal family.
+
+456
+00:34:44,088 --> 00:34:47,130
+So what were we to do
+when they turned against one another?
+
+457
+00:35:16,057 --> 00:35:20,391
+Queen Rhaenyra Targaryen,
+the First of Her Name,
+
+458
+00:35:20,392 --> 00:35:24,596
+Queen of the Andals,
+and the Rhoynar, and the First Men,
+
+459
+00:35:24,597 --> 00:35:28,801
+Lady of the Seven Kingdoms,
+and Protector of the Realm.
+
+460
+00:35:34,843 --> 00:35:37,080
+Did you find
+what you needed?
+
+461
+00:35:45,652 --> 00:35:48,291
+Your council stands
+at the ready, Your Grace.
+
+462
+00:35:52,459 --> 00:35:54,694
+I will fly to Harrenhal
+at your command
+
+463
+00:35:54,695 --> 00:35:56,931
+and set our toehold
+in the Riverlands.
+
+464
+00:35:57,931 --> 00:36:00,132
+Your Grace,
+my lord husband's blockade of the Gullet
+
+465
+00:36:00,133 --> 00:36:01,165
+moves into place.
+
+466
+00:36:01,166 --> 00:36:02,433
+All seaborne
+travel and trade
+
+467
+00:36:02,434 --> 00:36:04,671
+to King's Landing
+will soon be cut off.
+
+468
+00:36:10,707 --> 00:36:13,950
+I want Aemond Targaryen.
+
+469
+00:37:02,363 --> 00:37:05,130
+In your years
+as a merchant of gossip,
+
+470
+00:37:05,131 --> 00:37:07,699
+you surely accumulated spies
+within the Red Keep.
+
+471
+00:37:07,700 --> 00:37:09,969
+Servants who knew
+the comings and goings.
+
+472
+00:37:09,970 --> 00:37:11,903
+Scheme with someone
+else, Daemon.
+
+473
+00:37:11,904 --> 00:37:15,378
+I was once in your thrall,
+but no longer.
+
+474
+00:37:16,411 --> 00:37:18,281
+A transaction, then.
+
+475
+00:37:19,014 --> 00:37:22,218
+Your knowledge in exchange
+for your freedom.
+
+476
+00:37:49,544 --> 00:37:50,746
+Your Grace.
+
+477
+00:37:54,446 --> 00:37:58,111
+Lady Jeyne Arryn has
+pledged her support
+
+478
+00:37:58,112 --> 00:38:01,090
+in exchange for a dragon
+to guard the Vale.
+
+479
+00:38:03,820 --> 00:38:06,829
+And Lord Cregan Stark...
+
+480
+00:38:09,731 --> 00:38:12,568
+has promised 2,000 men...
+
+481
+00:38:57,945 --> 00:38:59,548
+Alyrie Florent.
+
+482
+00:39:29,645 --> 00:39:31,647
+Viserys Targaryen.
+
+483
+00:40:27,368 --> 00:40:31,371
+Lucerys Velaryon.
+
+484
+00:41:26,027 --> 00:41:27,479
+A tribute.
+
+485
+00:41:36,037 --> 00:41:37,669
+Commander?
+
+486
+00:41:37,670 --> 00:41:39,708
+Never gone for long.
+
+487
+00:41:41,509 --> 00:41:44,613
+I'm told you bear a mislike
+for the Hightowers.
+
+488
+00:41:46,014 --> 00:41:48,217
+Fuck the Hightowers.
+
+489
+00:41:53,555 --> 00:41:55,390
+Keep walking.
+
+490
+00:41:58,988 --> 00:42:00,997
+Don't make trouble.
+
+491
+00:42:08,834 --> 00:42:10,602
+{\an8}The White Worm said
+
+492
+00:42:10,603 --> 00:42:12,370
+{\an8}you're one of
+Aegon's ratcatchers.
+
+493
+00:42:12,371 --> 00:42:16,079
+{\an8}You must be busy.
+That castle positively crawls with them now.
+
+494
+00:42:17,478 --> 00:42:19,477
+I heard
+the White Worm were dead.
+
+495
+00:42:19,478 --> 00:42:23,248
+Her ghost told me
+you were a betting man.
+
+496
+00:42:23,249 --> 00:42:27,019
+- Fighting pits?
+- Dogs... and bones.
+
+497
+00:42:27,020 --> 00:42:28,824
+How deep are
+your debts?
+
+498
+00:42:36,264 --> 00:42:38,130
+I was also given to understand
+that you possess
+
+499
+00:42:38,131 --> 00:42:40,198
+a unique knowledge
+of the Red Keep.
+
+500
+00:42:40,199 --> 00:42:42,333
+Maegor's tunnels.
+
+501
+00:42:42,334 --> 00:42:45,370
+Great big
+rat's nest, it is.
+
+502
+00:42:45,371 --> 00:42:48,544
+I know them better
+than the shape of my own cock.
+
+503
+00:42:51,079 --> 00:42:52,281
+This is my friend.
+
+504
+00:42:53,614 --> 00:42:56,084
+Tonight, he's going
+to be your friend.
+
+505
+00:42:56,851 --> 00:42:59,855
+You're to find and slay
+the Prince Aemond Targaryen.
+
+506
+00:43:01,122 --> 00:43:03,625
+He has silver hair
+and one eye.
+
+507
+00:43:03,626 --> 00:43:06,129
+Should be easy
+enough to find.
+
+508
+00:43:07,795 --> 00:43:09,428
+But I understand
+he's quite good in a fight.
+
+509
+00:43:09,429 --> 00:43:11,300
+You'll want
+to take caution.
+
+510
+00:43:12,933 --> 00:43:16,572
+That's one half.
+You'll get the other when it's done.
+
+511
+00:43:28,450 --> 00:43:29,652
+Alright.
+
+512
+00:43:31,820 --> 00:43:33,589
+What if we can't find him?
+
+513
+00:43:38,091 --> 00:43:41,694
+We've wasted precious days in this war
+of quills and ravens.
+
+514
+00:43:41,695 --> 00:43:43,732
+Words are wind.
+
+515
+00:43:44,599 --> 00:43:46,931
+You should be leading the van,
+
+516
+00:43:46,932 --> 00:43:49,533
+and I should be flying
+cover on Vhagar.
+
+517
+00:43:49,534 --> 00:43:52,787
+No castle would dare
+to raise Rhaenyra's banner against us.
+
+518
+00:43:52,788 --> 00:43:56,042
+We would bring the whole
+of the Crownlands to heel in weeks.
+
+519
+00:43:56,043 --> 00:43:58,911
+Well, mayhaps
+we could petition the king,
+
+520
+00:43:58,912 --> 00:44:01,951
+privately,
+to send us out.
+
+521
+00:44:03,752 --> 00:44:05,716
+Rosby and Stokeworth,
+
+522
+00:44:05,717 --> 00:44:09,088
+small castles right in the shadow
+of King's Landing.
+
+523
+00:44:09,089 --> 00:44:10,958
+They would not want
+us for enemies.
+
+524
+00:44:10,959 --> 00:44:12,828
+We could add their
+levies to our own.
+
+525
+00:44:14,162 --> 00:44:16,632
+Our host growing
+as we advance.
+
+526
+00:44:18,833 --> 00:44:21,170
+Uh, it is
+a canny scheme.
+
+527
+00:44:21,803 --> 00:44:23,434
+But moot.
+
+528
+00:44:23,435 --> 00:44:26,471
+My brother is hostage
+to my grandsire and mother,
+
+529
+00:44:26,472 --> 00:44:30,008
+and they tell him that a war of dragons
+can yet be avoided.
+
+530
+00:44:30,009 --> 00:44:32,729
+'Tis inevitable.
+They must see that.
+
+531
+00:44:32,730 --> 00:44:35,451
+Otto fears to upset
+the order of things.
+
+532
+00:44:36,718 --> 00:44:38,721
+And Alicent
+is simply...
+
+533
+00:44:39,949 --> 00:44:42,186
+angry.
+
+534
+00:44:42,187 --> 00:44:45,756
+- Angry?
+- She blames me for starting this war
+
+535
+00:44:45,757 --> 00:44:49,798
+after she plotted with my father's council
+to usurp his throne.
+
+536
+00:44:51,565 --> 00:44:54,803
+"Her Grace" speaks
+with two tongues.
+
+537
+00:44:58,640 --> 00:45:00,904
+She has a gentle heart.
+
+538
+00:45:01,503 --> 00:45:04,146
+And Rhaenyra is
+a cunning spider.
+
+539
+00:45:04,578 --> 00:45:08,615
+Long ago,
+she drew Alicent into her web...
+
+540
+00:45:08,616 --> 00:45:10,486
+intoxicated her.
+
+541
+00:45:12,053 --> 00:45:13,889
+It is not
+your mother's fault.
+
+542
+00:45:15,417 --> 00:45:17,660
+She holds love
+for our enemy.
+
+543
+00:45:19,527 --> 00:45:21,530
+That makes her a fool.
+
+544
+00:45:38,112 --> 00:45:39,348
+Lord Hand.
+
+545
+00:45:49,190 --> 00:45:51,309
+Return to your post,
+Lord Commander.
+
+546
+00:45:51,310 --> 00:45:53,429
+I must have a word
+with the prince.
+
+547
+00:46:07,339 --> 00:46:09,040
+It would concern me,
+grandson,
+
+548
+00:46:09,041 --> 00:46:10,742
+if plans were
+being considered
+
+549
+00:46:10,743 --> 00:46:14,283
+beyond the ears
+of your king and his Hand.
+
+550
+00:46:14,949 --> 00:46:17,083
+You have a zeal to act.
+I understand.
+
+551
+00:46:17,084 --> 00:46:18,549
+I was young
+once myself...
+
+552
+00:46:18,550 --> 00:46:21,590
+I only wish to serve
+my king and my house.
+
+553
+00:46:27,762 --> 00:46:29,394
+You and Vhagar
+
+554
+00:46:29,395 --> 00:46:32,435
+are the greatest single
+power in the realm.
+
+555
+00:46:34,635 --> 00:46:38,141
+If it wasn't obvious before,
+it certainly is now.
+
+556
+00:46:43,111 --> 00:46:46,115
+But there are many
+pieces at play here...
+
+557
+00:46:47,248 --> 00:46:50,016
+some of which
+you can't yet see.
+
+558
+00:46:50,017 --> 00:46:52,368
+I promise you, Aemond,
+you will have
+
+559
+00:46:52,369 --> 00:46:54,719
+all the vengeance
+that you seek,
+
+560
+00:46:54,720 --> 00:46:58,161
+but you must keep a grip
+on your impulses.
+
+561
+00:47:00,862 --> 00:47:03,499
+We both know that
+your brother cannot.
+
+562
+00:47:20,148 --> 00:47:22,351
+Alright.
+
+563
+00:47:55,751 --> 00:47:56,986
+Take that.
+
+564
+00:48:02,590 --> 00:48:04,227
+Bring the dog.
+
+565
+00:48:31,085 --> 00:48:33,419
+I need to be a symbol
+for the smallfolk,
+
+566
+00:48:33,420 --> 00:48:35,321
+- as well as the nobility.
+- Wait.
+
+567
+00:48:35,322 --> 00:48:37,023
+You could always be
+
+568
+00:48:37,024 --> 00:48:38,656
+"Aegon the Strong."
+
+569
+00:48:38,657 --> 00:48:40,425
+My nephew's already
+taken that one.
+
+570
+00:48:40,426 --> 00:48:42,228
+Well, which would Your Grace prefer?
+
+571
+00:48:42,229 --> 00:48:44,096
+- It's the king.
+- To be loved or feared?
+
+572
+00:48:44,097 --> 00:48:45,981
+I need to be both.
+
+573
+00:48:45,982 --> 00:48:47,865
+My mother
+and grandsire
+
+574
+00:48:47,866 --> 00:48:50,537
+mind me like some
+helpless duckling.
+
+575
+00:48:50,538 --> 00:48:52,336
+Oh, well,
+you're the king.
+
+576
+00:48:52,337 --> 00:48:53,704
+Who gives a shit
+what they say?
+
+577
+00:48:53,705 --> 00:48:56,442
+My brother, at least,
+knows his place.
+
+578
+00:48:56,443 --> 00:48:58,576
+He's as loyal as a hound.
+
+579
+00:48:58,577 --> 00:49:01,985
+I can set him and his dragon
+on my foes at will.
+
+580
+00:49:03,817 --> 00:49:05,918
+- Keep your eyes down.
+- I need a style that
+
+581
+00:49:05,919 --> 00:49:09,287
+demonstrates power
+and commands respect.
+
+582
+00:49:09,288 --> 00:49:12,556
+Eh, no-no one knows
+what "magnanimous" means.
+
+583
+00:49:12,557 --> 00:49:15,060
+You could be "Aegon the Generous" then.
+
+584
+00:49:15,061 --> 00:49:17,296
+- That would charm the smallfolk.
+- I like that.
+
+585
+00:49:17,297 --> 00:49:18,762
+Is there more strong wine?
+
+586
+00:49:18,763 --> 00:49:21,267
+- "Aegon the Dragonheart."
+- Better.
+
+587
+00:49:21,268 --> 00:49:23,319
+"Aegon the Dragoncock!"
+
+588
+00:49:23,320 --> 00:49:25,379
+Yes, yes!
+
+589
+00:49:25,380 --> 00:49:27,440
+Yeah,
+the untamable beast!
+
+590
+00:49:50,666 --> 00:49:52,767
+How do we
+get upstairs?
+
+591
+00:49:52,768 --> 00:49:54,870
+The royals
+live up there.
+
+592
+00:49:56,471 --> 00:49:57,669
+Right.
+
+593
+00:49:57,670 --> 00:49:59,074
+Well, it's
+off limits, it is.
+
+594
+00:49:59,640 --> 00:50:01,974
+Different group
+of ratcatchers work the upstairs.
+
+595
+00:50:01,975 --> 00:50:03,961
+If we're to kill
+a royal fucking prince,
+
+596
+00:50:03,962 --> 00:50:05,949
+where do you think
+we're gonna find him?
+
+597
+00:50:07,048 --> 00:50:09,080
+I got you in the castle.
+
+598
+00:50:09,081 --> 00:50:10,749
+I thought the rest
+was your bit.
+
+599
+00:50:13,419 --> 00:50:15,186
+I could end you
+right here,
+
+600
+00:50:15,187 --> 00:50:17,256
+take the rest
+of the gold meself.
+
+601
+00:50:20,161 --> 00:50:21,927
+I know a way upstairs.
+
+602
+00:50:21,928 --> 00:50:24,930
+I just don't know
+my way 'round.
+
+603
+00:50:27,367 --> 00:50:29,035
+Show me.
+
+604
+00:50:30,803 --> 00:50:32,839
+Fuck off.
+
+605
+00:50:39,515 --> 00:50:40,716
+This way.
+
+606
+00:51:01,602 --> 00:51:03,636
+The royals live
+on this level.
+
+607
+00:51:22,424 --> 00:51:24,093
+No one's here.
+
+608
+00:51:24,693 --> 00:51:26,424
+We need to keep looking.
+
+609
+00:51:26,425 --> 00:51:28,995
+I've told ya,
+I'm not supposed to be up here.
+
+610
+00:51:28,996 --> 00:51:31,034
+Did you not
+hear the prince?
+
+611
+00:51:31,966 --> 00:51:34,971
+No head... no gold.
+
+612
+00:51:41,543 --> 00:51:43,979
+- Set a trap.
+- Huh?
+
+613
+00:51:44,545 --> 00:51:46,549
+- For appearances.
+- Oh.
+
+614
+00:51:46,915 --> 00:51:48,751
+I'll search
+the next room.
+
+615
+00:52:21,783 --> 00:52:23,619
+For the rats.
+
+616
+00:52:55,350 --> 00:52:57,786
+Quiet.
+
+617
+00:52:58,553 --> 00:53:00,184
+Quiet.
+
+618
+00:53:03,357 --> 00:53:05,361
+Stay still.
+
+619
+00:53:07,794 --> 00:53:11,467
+Who the fuck is she?
+
+620
+00:53:12,801 --> 00:53:14,803
+She's the queen, she is.
+
+621
+00:53:15,236 --> 00:53:18,097
+"A son for a son,"
+he said.
+
+622
+00:53:18,098 --> 00:53:20,540
+Well, does she look like
+a fucking son to you?
+
+623
+00:53:20,541 --> 00:53:23,812
+Over there.
+
+624
+00:53:33,254 --> 00:53:35,287
+We need to get
+our head and get out.
+
+625
+00:53:35,288 --> 00:53:37,326
+Shh.
+
+626
+00:53:42,997 --> 00:53:46,284
+They both look the same.
+Which one's the boy?
+
+627
+00:53:46,285 --> 00:53:49,572
+- Maybe that one.
+- Well, look for a cock.
+
+628
+00:53:53,875 --> 00:53:55,211
+The mother knows.
+
+629
+00:53:57,444 --> 00:53:59,678
+Do anything
+but what I ask,
+
+630
+00:53:59,679 --> 00:54:02,718
+and I'll bleed
+the whole lot of ya.
+
+631
+00:54:04,619 --> 00:54:05,854
+Shh.
+
+632
+00:54:09,358 --> 00:54:10,559
+Which?
+
+633
+00:54:13,562 --> 00:54:15,564
+I have a necklace.
+
+634
+00:54:17,398 --> 00:54:19,402
+It's of great value.
+
+635
+00:54:22,771 --> 00:54:24,540
+That's not a son.
+
+636
+00:54:39,388 --> 00:54:40,389
+N...
+
+637
+00:54:48,062 --> 00:54:49,365
+Wait.
+
+638
+00:54:50,431 --> 00:54:54,437
+It's the other one. She's not gonna give up
+the king's heir that easy.
+
+639
+00:55:03,979 --> 00:55:04,981
+No.
+
+640
+00:55:06,648 --> 00:55:08,284
+She's telling true.
+
+641
+00:55:11,950 --> 00:55:13,736
+Hold him down.
+
+642
+00:55:17,025 --> 00:55:18,027
+No.
+
+643
+00:56:21,657 --> 00:56:23,259
+Helaena!
+
+644
+00:56:28,029 --> 00:56:29,665
+What's happened?
+
+645
+00:56:33,883 --> 00:56:35,905
+They killed the boy.
