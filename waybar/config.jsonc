@@ -1,75 +1,147 @@
 {
   "layer": "top",
-  "output": "HDMI-A-1",  // Specify your desired output
-  "position": "left",    // Or "right", depending on where you want the bar
-  "width": 48,
+  "output": "HDMI-A-1",
+  "position": "left",
+  "width": 48,  // Adjust for vertical bar
   "margin-top": 0,
   "margin-bottom": 0,
   "margin-left": 0,
   "margin-right": 5,
-  "spacing": 5,
+  "spacing": 5,  // Adjust spacing between modules
   "gtk-layer-shell": true,
-  "modules-left": ["clock"],
-  "modules-center": ["hyprland/workspaces"],
+
+  // Left side modules
+  "modules-left": [
+    "custom/fedora-icon"
+  ],
+
+  // Center side modules
+  "modules-center": [
+    "hyprland/workspaces",
+    "hyprland/submap"
+  ],
+
+  // Right side modules
   "modules-right": [
-    "pulseaudio",
-    "tray" ]
+    "pulseaudio/slider",
+    "pulseaudio#audio",
+    "bluetooth",
+    "clock"
+  ],
+
+  // Module configuration
+  "pulseaudio/slider": {
+    "min": 0,
+    "max": 100,
+    "orientation": "vertical"
+  },
+
+  "pulseaudio#audio": {
+    "format": "{icon}",
+    "format-bluetooth": "󰂯\n{icon}",
+    "format-bluetooth-muted": "󰂯\n󰖁",
+    "format-muted": "󰖁",
+    "format-icons": {
+      "headphone": "󰋋",
+      "hands-free": "󰋋",
+      "headset": "󰋋",
+      "phone": "",
+      "portable": "",
+      "car": "",
+      "default": ["󰕿", "󰖀", "󰕾"]
+    },
+    "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
+    "on-scroll-up": "pactl set-sink-volume @DEFAULT_SINK@ +1%",
+    "on-scroll-down": "pactl set-sink-volume @DEFAULT_SINK@ -1%",
+    "tooltip": true,
+    "tooltip-format": "{icon} {desc} {volume}%"
+  },
+
+  "pulseaudio#microphone": {
+    "format": "{format_source}",
+    "format-source": "󰍬 {volume}%",
+    "format-source-muted": "󰍭 {volume}%",
+    "on-click": "pactl set-source-mute @DEFAULT_SOURCE@ toggle",
+    "on-scroll-up": "pactl set-source-volume @DEFAULT_SOURCE@ +1%",
+    "on-scroll-down": "pactl set-source-volume @DEFAULT_SOURCE@ -1%",
+    "max-volume": 100,
+    "tooltip": false
+  },
+
+
+"custom/fedora-icon": {
+    "format": "",  // Fedora logo from Font Awesome (or another icon font)
+    "tooltip": "Fedora"
 },
 
 
-  "hyprland/workspaces": {
-    "on-click": "activate",
-    "format": "{id}",
-    "all-outputs": true,
-    "disable-scroll": false,
-    "active-only": false,
+  "bluetooth": {
+    "format-disabled": "",
+    "format-off": "",
+    "format-on": "󰂯",
+    "format-connected": "󰂯",
+    "format-connected-battery": "󰂯",
+    "tooltip-format-connected": "{device_enumerate}",
+    "tooltip-format-enumerate-connected": "{device_alias} 󰂄{device_battery_percentage}% {device_address}",
+    "on-click": "blueman-manager",
+    "tooltip": true
   },
-  "hyprland/window": {
-    "format": "{title}",
-  },
-  "tray": {
-    "show-passive-items": true,
-    "spacing": 10,
-  },
-  "clock#simpleclock": {
-    "tooltip": false,
-    "format": " {:%H:%M}",
-  },
-  "clock": {
-    "format": " {:L%a %d %b}",
-    "calendar": {
-      "format": {
-        "days": "<span weight='normal'>{}</span>",
-        "months": "<span color='#cdd6f4'><b>{}</b></span>",
-        "today": "<span color='#f38ba8' weight='700'><u>{}</u></span>",
-        "weekdays": "<span color='#f9e2af'><b>{}</b></span>",
-        "weeks": "<span color='#a6e3a1'><b>W{}</b></span>",
-      },
-      "mode": "month",
-      "mode-mon-col": 1,
-      "on-scroll": 1,
-    },
-    "tooltip-format": "<span color='#cdd6f4' font='Lexend 16'><tt><small>{calendar}</small></tt></span>",
-  },
-  "cpu": {
-    "format": " {usage}%",
-    "tooltip": true,
-    "interval": 1,
-  },
-  "memory": {
-    "format": " {used:0.1f}Gi",
-  },
-  "pulseaudio": {
-    "format": "{icon} {volume}%",
-    "format-muted": "  muted",
+
+
+"hyprland/workspaces": {
+    "all-outputs": true,  // Show workspaces across all monitors
+    "format": "{icon}",
     "format-icons": {
-      "headphone": "",
-      "default": [" ", " ", " "],
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "󰝚",
+        "5": "󰉋",
+        "6": "",
+        "7": "",
+        "8": "󰐍",
+        "9": "󰈙",
+        "10": ""
     },
-    "on-click": "pavucontrol",
+    "highlight": "#c2c2c2",        // Inactive workspace color
+    "highlight-active": "#5A3C85", // Active workspace color
+    "on-click": "activate"
+},
+
+
+  "hyprland/submap": {
+    "format": "{}",
+    "tooltip": false
   },
-  "custom/sep": {
-    "format": "|",
+
+  "hyprland/window": {
+    "format": " <span font_desc='Iosevka Raven 12'>{:.40}</span> ",
+    "separate-outputs": false
+  },
+
+  "wlr/taskbar": {
+    "format": "{icon}",
+    "active-first": true
+  },
+
+  "tray": {
+    "icon-size": 14,
+    "spacing": 8
+  },
+
+  "clock": {
+    "interval": 1,
+    "format": "\n{:%I\n%M\n%p}",
+    "format-alt": "󰣆\n{:%d\n%m\n%y\n󰥔\n%I\n%M\n%p}",
     "tooltip": false,
-  },
+    "tooltip-format": "{calendar}",
+    "calendar": {
+      "mode": "year",
+      "mode-mon-col": 3,
+      "format": {
+        "today": "<span color='#0dbc79'>{}</span>"
+      }
+    }
+  }
+}
 
