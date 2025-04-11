@@ -11,63 +11,49 @@
     "modules-left": ["hyprland/workspaces"],
     "modules-center": ["hyprland/window"],
     "modules-right": [
-        "pulseaudio",
-        "pulseaudio#microphone",
         "clock",
         "tray"
     ],
 
-
-
-
-
-    "wlr/workspaces": {
+    "hyprland/workspaces": {
         "on-click": "activate",
-        "format": "{name}",
+        "format": "{icon}",
         "all-outputs": true,
         "disable-scroll": false,
         "active-only": false,
+        "format-icons": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": "",
+      "9": "",
+      "10":""
+
+        }
     },
 
     "hyprland/window": {
         "format": "{}",
         "rewrite": {
-            "(.{42}).*": "$1..",
+            "(.{42}).*": "$1.."
         },
         "icon": true,
-        "icon-size": 22,
+        "icon-size": 22
     },
 
     "tray": {
         "show-passive-items": true,
-        "spacing": 10,
+        "spacing": 10
     },
-
 
     "clock": {
         "format": "{:%I:%M %p | %A, %B %d}",
         "tooltip-format": "{:%Y-%m-%d %H:%M:%S}",
         "format-alt": "{:%H:%M | %d-%m-%Y}"
-    }
-}
-
-
-    "clock#date": {
-        "format": "  {:L%a %d %b}",
-        "tooltip-format": "<tt>{calendar}</tt>",
-        "calendar": {
-            "mode": "month",
-            "mode-mon-col": 3,
-            "on-click-right": "mode",
-            "format": {
-                "months": "<span color='#f5e0dc'><b>{}</b></span>",
-                "weekdays": "<span color='#f9e2af'><b>{}</b></span>",
-                "today": "<span color='#f38ba8'><b>{}</b></span>",
-            },
-        },
-        "actions": { "on-click-right": "mode" },
-        "min-length": 8,
-        "max-length": 28,
     },
 
     "pulseaudio": {
@@ -80,10 +66,10 @@
             "phone": "",
             "portable": "",
             "car": "",
-            "default": [" ", " ", " "],
+            "default": [" ", " ", " "]
         },
         "on-click-middle": "pamixer -t",
-        "on-click": "pavucontrol",
+        "on-click": "pavucontrol"
     },
 
     "pulseaudio#microphone": {
@@ -94,17 +80,18 @@
         "on-click-middle": "~/.config/hypr/scripts/volume.sh --toggle-mic",
         "on-scroll-up": "~/.config/hypr/scripts/volume.sh --mic-inc",
         "on-scroll-down": "~/.config/hypr/scripts/volume.sh --mic-dec",
-        "tooltip-format": "{source_desc} | {source_volume}%",
+        "tooltip-format": "{source_desc} | {source_volume}%"
     },
 
     "custom/sep": {
         "format": "|",
-        "tooltip": false,
+        "tooltip": false
     },
 
     "custom/power": {
         "tooltip": false,
         "on-click": "~/.config/rofi/powermenu/type-2/powermenu.sh &",
-        "format": "⏻ ",
-    },
+        "format": "⏻ "
+    }
 }
+

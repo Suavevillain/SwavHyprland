@@ -12,7 +12,9 @@
 
 
 * {
-  font-family: "Century Gothic", sans-serif;
+  font-family: "Century Ghothic";
+  font-size: 14px;
+  transition: all 0.3s ease;
 }
 
 
@@ -133,7 +135,7 @@
   font-size: 16px;
   font-weight: 700;
   background: transparent;
-  color: rgba(158, 206, 106, 1);
+  color: rgba(114, 135, 253, 1);
   text-shadow: none;
 }
 

@@ -112,6 +112,9 @@ window#waybar.empty #window {
 
 #clock {
     color: #74c7ec;
+    font-family: "Quicksand", monospace;
+    font-size: 14px;
+    font-weight: bold;
 }
 
 #clock.simpleclock {
