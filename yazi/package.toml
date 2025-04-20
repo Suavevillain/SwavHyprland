@@ -1,0 +1,5 @@
+[plugin]
+deps = []
+
+[flavor]
+deps = [{ use = "ficcdaf/ashen:ashen", rev = "e0d552f" }]

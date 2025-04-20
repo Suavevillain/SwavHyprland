@@ -1,7 +1,7 @@
 {
     "layer": "top",
-    "output": "HDMI-A-1",
-    "position": "top",
+    "output": ["HDMI-A-1", "HDMI-A-2","DP-2"],
+    "position": "bottom",
     "height": 36,
     "spacing": 4,
     "exclusive": true,

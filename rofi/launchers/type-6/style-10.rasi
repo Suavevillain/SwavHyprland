@@ -26,8 +26,8 @@ font:                        "JetBrains Mono Nerd Font 10";
 background:                  #1E1E2E;  /* Base (Mocha) */
 background-alt:              #313244;  /* Surface0 (Mocha) */
 foreground:                  #CDD6F4;  /* Text (Mocha) */
-selected:                    #CBA6F7;  /* Mauve (Mocha) */
-active:                      #89B4FA;  /* Blue (Mocha) */
+selected:                    #89B4FA80;  /* Mauve (Mocha) */
+active:                      #89B4FA80;  /* Blue (Mocha) */
 urgent:                      #F38BA8;  /* Red (Mocha) */
 }
 

@@ -24,7 +24,8 @@
   "widgets": [
     "buttons-grid",
     "volume",
-    "backlight"
+    "dnd",
+    "notifications"
   ],
   "widget-config": {
     "title": {
@@ -97,3 +98,4 @@
     }
   }
 }
+
