@@ -31,23 +31,23 @@ window#waybar.hidden {
     margin: 4px 4px;
     border-radius: 8px;
     background-color: transparent;
-    color: #cdd6f4;
+    color: #EBDBB2;
 }
 
 #workspaces button:hover {
     box-shadow: inherit;
     text-shadow: inherit;
     color: #000000;
-    background-color: #cdd6f4;
+    background-color: #83A598;
 }
 
 #workspaces button.active {
     color: #000000;
-    background-color: #aa1c11;
+    background-color: #e9783d;
 }
 
 #workspaces button.urgent {
-    background-color: #f38ba8;
+    background-color: #83A598;
 }
 
 #clock,
@@ -78,7 +78,7 @@ window#waybar.hidden {
 }
 
 #custom-screen-recorder.not-recording {
-    color: #df2020;
+    color: #e9783d;
 }
 
 #custom-music-player.playing {
@@ -111,7 +111,7 @@ window#waybar.empty #window {
 }
 
 #clock {
-    color: #f8190d;
+    color: #e9783d;
     font-family: "Play", monospace;
     font-size: 14px;
     font-weight: bold;

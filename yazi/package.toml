@@ -2,4 +2,4 @@
 deps = []
 
 [flavor]
-deps = [{ use = "ficcdaf/ashen:ashen", rev = "e0d552f" }]
+deps = [{ use = "ficcdaf/ashen:ashen", rev = "e0d552f" }, { use = "bennyyip/gruvbox-dark", rev = "91fdfa7" }]

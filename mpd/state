@@ -1,19 +1,23 @@
-sw_volume: 100
+sw_volume: 96
 audio_device_state:1:pulse audio
 audio_device_state:1:toggle_visualizer
 audio_device_state:1:Swav
-state: pause
-current: 2
-time: 187.110000
+state: stop
 random: 0
 repeat: 0
 single: 0
 consume: 0
 crossfade: 5
-mixrampdb: 0.000000
-mixrampdelay: -1.000000
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist: 
 playlist_begin
-0:Singles/Aquatica.mp3
-1:Singles/Architect_-_Bomber_2-Vubey.mp3
-2:Singles/Architect_-_Bomber-Vubey.mp3
+0:Singles/CRUISE.mp3
+1:Singles/cyberwear2004 ☺.mp3
+2:Singles/Dragon Ball Z Original Soundtrack - Solid State Scouter.mp3
+3:Singles/Farcry 5 Theme Song Remix.mp3
+4:Singles/if lil pump played runescape instead of popping xans.mp3
+5:Singles/Mahareshi_-_AQMN_Aquatic_Mine_Sample-Vubey.mp3
+6:Singles/Mahareshi_-_December_21st_Package-Vubey.mp3
+7:Singles/makota.wav
 playlist_end

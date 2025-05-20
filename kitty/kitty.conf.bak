@@ -9,7 +9,7 @@
 background_opacity      0.8
 
 # fonts
-font_family             FiraCode Nerd Font Mono
+font_family             FiraCode Nerd Font
 bold_font               auto
 italic_font             auto
 bold_italic_font        auto
@@ -20,16 +20,13 @@ disable_ligatures       never
 window_padding_width    6.0
 
 # mouse
-open_url_with           zen
+open_url_with = flatpak run app.zen_browser.zen
 
 # advanced
 allow_remote_control    yes
 
 
-#include ~/.cache/wal/colors-kitty.conf
-
-
 # BEGIN_KITTY_THEME
-# Dracula
+# Catppuccin-Mocha
 include current-theme.conf
 # END_KITTY_THEME
