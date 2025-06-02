@@ -11,7 +11,7 @@
 
     "modules-left": ["hyprland/workspaces"],
     "modules-center": ["hyprland/window"],
-    "modules-right": ["clock", "tray"],
+    "modules-right": ["clock","tray","custom/weather"],
 
     "hyprland/workspaces": {
       "on-click": "activate",
@@ -46,7 +46,13 @@
       "show-passive-items": true,
       "spacing": 10
     },
-
+"custom/weather": {
+    "format": "{}°",
+    "tooltip": true,
+    "interval": 3600,
+    "exec": "wttrbar --fahrenheit --mph",
+    "return-type": "json"
+},
     "clock": {
       "format": "{:%I:%M %p | %A, %B %d}",
       "tooltip-format": "{:%Y-%m-%d %H:%M:%S}",
