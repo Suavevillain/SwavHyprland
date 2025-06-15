@@ -31,7 +31,7 @@ window#waybar.hidden {
     margin: 4px 4px;
     border-radius: 8px;
     background-color: transparent;
-    color: #EBDBB2;
+    color: #ECEFF4;
 }
 
 #workspaces button:hover {
@@ -43,7 +43,7 @@ window#waybar.hidden {
 
 #workspaces button.active {
     color: #000000;
-    background-color: #e9783d;
+    background-color: #5e81ac;
 }
 
 #workspaces button.urgent {
@@ -111,8 +111,8 @@ window#waybar.empty #window {
 }
 
 #clock {
-    color: #e9783d;
-    font-family: "Play", monospace;
+    color: #5e81ac;
+    font-family: "Orbitron", monospace;
     font-size: 14px;
     font-weight: bold;
     background: transparent;

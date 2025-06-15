@@ -1,0 +1,47 @@
+set font "Inter"
+set dpi 110
+set adjust-open "best-fit"
+set statusbar-home-tilde "true"
+set selection-clipboard "clipboard"
+
+# One page per row by default
+set pages-per-row 1
+#stop at page boundries
+set scroll-page-aware "true"
+set smooth-scroll "true"
+set scroll-full-overlap 0.01
+set scroll-step 100
+
+#zoom settings
+set zoom-min 10
+set guioptions ""
+
+
+map D set "first-page-column 1:1"
+map <C-d> set "first-page-column 1:2"
+
+# Nord theme colors
+set default-bg            "#2e3440"
+set default-fg            "#d8dee9"
+set statusbar-fg          "#d8dee9"
+set statusbar-bg          "#3b4252"
+set inputbar-fg           "#eceff4"
+set inputbar-bg           "#3b4252"
+set notification-fg       "#d8dee9"
+set notification-bg       "#5e81ac"
+set notification-error-bg "#bf616a"
+set notification-error-fg "#eceff4"
+set notification-warning-bg "#ebcb8b"
+set notification-warning-fg "#2e3440"
+set highlight-color       "#88c0d0"
+set highlight-active-color "#81a1c1"
+set completion-bg         "#4c566a"
+set completion-fg         "#d8dee9"
+set completion-group-bg   "#434c5e"
+set completion-group-fg   "#88c0d0"
+
+# Optional: Recolor pages for dark mode
+set recolor               "true"
+set recolor-keephue       "true"
+set recolor-lightcolor    "#2e3440"
+set recolor-darkcolor     "#d8dee9"

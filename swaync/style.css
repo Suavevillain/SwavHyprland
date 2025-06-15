@@ -1,15 +1,16 @@
-@define-color cc-bg rgba(0, 0, 0, 0.5);
-@define-color noti-border-color rgba(255, 255, 255, 0.15);
-@define-color noti-bg rgba(40, 40, 40, 0.5);         /* #00000080 */
-@define-color noti-bg-darker rgba(53, 53, 53, 0.3);  /* #0000004D */
-@define-color noti-bg-hover rgb(27, 27, 43);
-@define-color noti-bg-focus rgba(27, 27, 27, 0.6);
-@define-color noti-close-bg rgba(255, 255, 255, 0.1);
-@define-color noti-close-bg-hover rgba(255, 255, 255, 0.15);
-@define-color text-color-disabled rgb(150, 150, 150);
-@define-color bg-selected rgb(255, 255, 255);  /* #FFFFFF */
-@define-color text-color rgba(235, 219, 178, 1);  /* Pure white */
+@import url("/home/swav/.cache/wal/colors-waybar.css");
 
+@define-color cc-bg @color0;
+@define-color noti-border-color @color1;
+@define-color noti-bg @color0;
+@define-color noti-bg-darker @color1;
+@define-color noti-bg-hover @color2;
+@define-color noti-bg-focus @color3;
+@define-color noti-close-bg @color4;
+@define-color noti-close-bg-hover @color5;
+@define-color text-color-disabled @color8;
+@define-color bg-selected @color15;
+@define-color text-color @foreground;
 
 * {
   font-family: "Wonder Unit Sans Medium";
@@ -34,8 +35,8 @@
 }
 
 .notification {
-  background: @cc-bg;
-  border: 2px solid #83A598;
+  background: #4c566a;
+  border: 2px solid #5e81ac;
   border-radius: 12px;
   margin: 3px -2px 3px 0px;
 }
@@ -105,8 +106,8 @@
 
 .inline-reply-entry {
   background: @noti-bg-darker;
-  color: @text-color;
-  caret-color: @text-color;
+  color: #ECEFF4;
+  caret-color: #ECEFF4;
   border: 1px solid @noti-border-color;
   border-radius: 5px;
 }
@@ -116,7 +117,7 @@
   background: @noti-bg;
   border: 1px solid @noti-border-color;
   border-radius: 5px;
-  color: @text-color;
+  color: #ECEFF4;
 }
 
 .inline-reply-button:disabled {
@@ -138,7 +139,7 @@
   font-size: 16px;
   font-weight: 700;
   background: transparent;
-  color: rgba(233, 120, 61, 1);
+  color: #5e81ac;
   text-shadow: none;
 }
 
@@ -155,16 +156,26 @@
   font-size: 15px;
   font-weight: 400;
   background: transparent;
-  color: @text-color;
+  color: #ECEFF4;
   text-shadow: none;
 }
 
+
+
+/* Apply layout and transparency only to the control center itself */
 .control-center {
-  background: @cc-bg;
-  border: 2px solid #83A598;
-  border-radius: 20px;  /* Increased radius for rounder edges */
-  padding: 10px;  /* Added padding for spacing */
+  background: alpha(@background, 0.6);
+  border: 2px solid #5e81ac;
+  border-radius: 20px;
+  padding: 10px;
 }
+
+/* Apply Orbitron font to all inner elements inside control center */
+.control-center,
+.control-center * {
+  font-family: "Orbitron", monospace;
+}
+
 
 .control-center-list {
   background: transparent;

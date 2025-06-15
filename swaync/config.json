@@ -22,14 +22,13 @@
   "hide-on-action": true,
   "script-fail-notify": true,
   "widgets": [
-    "buttons-grid",
-    "volume",
     "dnd",
-    "notifications"
+    "notifications",
+    "title"
   ],
   "widget-config": {
     "title": {
-      "text": "Notification Center",
+      "text": "Notifications",
       "clear-all-button": true,
       "button-text": "󰆴 Clear"
     },
@@ -38,7 +37,7 @@
     },
     "label": {
       "max-lines": 1,
-      "text": "Notification Center"
+      "text": "Notifications"
     },
     "mpris": {
       "image-size": 50,
