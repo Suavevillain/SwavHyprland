@@ -10,8 +10,8 @@
     "fixed-center": true,
 
     "modules-left": ["hyprland/workspaces"],
-    "modules-center": ["hyprland/window"],
-    "modules-right": ["clock","tray","custom/weather"],
+    "modules-center": ["clock"],
+    "modules-right": ["hyprland/window","tray","custom/weather"],
 
     "hyprland/workspaces": {
       "on-click": "activate",

@@ -1,3 +1,5 @@
+@import url("/home/swav/.cache/wal/colors-waybar.css");
+
 * {
     min-height: 0;
     /* font-family: Lexend, "Font Awesome 6 Free Solid"; */
@@ -38,16 +40,16 @@ window#waybar.hidden {
     box-shadow: inherit;
     text-shadow: inherit;
     color: #000000;
-    background-color: #83A598;
+    background-color: @color2;
 }
 
 #workspaces button.active {
     color: #000000;
-    background-color: #5e81ac;
+    background-color: @color3
 }
 
 #workspaces button.urgent {
-    background-color: #83A598;
+    background-color: @color6;
 }
 
 #clock,
@@ -111,7 +113,7 @@ window#waybar.empty #window {
 }
 
 #clock {
-    color: #5e81ac;
+    color: @color1;
     font-family: "Orbitron", monospace;
     font-size: 14px;
     font-weight: bold;
