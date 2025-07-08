@@ -1,0 +1,212 @@
+@import url("/home/swav/.cache/wal/colors-waybar.css");
+
+@define-color cc-bg rgba(11, 11, 12, 0.6);
+@define-color noti-border-color rgba(11, 11, 12, 0.6);
+@define-color noti-bg rgba(11, 11, 12, 0.8);
+@define-color noti-bg-darker rgba(11, 11, 12, 0.8);
+@define-color noti-bg-hover rgba(49, 198, 245, 0.6);
+@define-color noti-bg-focus @color3;
+@define-color noti-close-bg @color4;
+@define-color noti-close-bg-hover @color5;
+@define-color text-color-disabled @color8;
+@define-color bg-selected @color15;
+@define-color text-color @foreground;
+
+* {
+  font-family: "Heletica Nue Medium";
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+
+
+.control-center .notification-row:focus,
+.control-center .notification-row:hover {
+  opacity: 1;
+  background: rgba(11, 11, 12, 0.6);
+  border-radius: 20px;  /* Keep it rounded */
+}
+
+
+.notification-row {
+  outline: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.notification {
+  background: rgba(11, 11, 12, 0.6);
+  border: 2px solid #31c6f5;
+  border-radius: 12px;
+  margin: 3px -2px 3px 0px;
+}
+
+.notification-content {
+  background: transparent;
+}
+
+.notification-default-action {
+  margin: 0;
+  padding: 0;
+  border-radius: 0px;
+}
+
+.close-button {
+  background: #f7768e;
+  color: @cc-bg;
+  text-shadow: none;
+  padding: 0px;
+  border-radius: 0px;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+
+.close-button:hover {
+  box-shadow: none;
+  background: #f7768e;
+  transition: all 0.15s ease-in-out;
+  border: none;
+}
+
+.notification-action {
+  border: 2px solid #ECEFF4;
+  border-top: none;
+  border-radius: 0px;
+}
+
+.notification-default-action:hover,
+.notification-action:hover {
+  color: #7aa2f7;
+  background: rgba(11, 11, 12, 0.6);
+}
+
+.notification-default-action {
+  border-radius: 5px;
+  margin: 0px;
+}
+
+.notification-default-action:not(:only-child) {
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+
+.notification-action:first-child {
+  border-bottom-left-radius: 10px;
+  background: #0b0b0c;
+}
+
+.notification-action:last-child {
+  border-bottom-right-radius: 10px;
+  background: #0b0b0c;
+}
+
+.inline-reply {
+  margin-top: 8px;
+}
+
+.inline-reply-entry {
+  background: rgba(11, 11, 12, 0.8);
+  color: #ECEFF4;
+  caret-color: #ECEFF4;
+  border: 1px solid @noti-border-color;
+  border-radius: 5px;
+}
+
+.inline-reply-button {
+  margin-left: 4px;
+  background: rgba(11, 11, 12, 0.8);
+  border: 1px solid #31c6f5;
+  border-radius: 5px;
+  color: #ECEFF4;
+}
+
+.inline-reply-button:disabled {
+  background: initial;
+  color: @text-color-disabled;
+  border: 1px solid transparent;
+}
+
+.inline-reply-button:hover {
+  background: @noti-bg-hover;
+}
+
+.image {
+  border-radius: 0px;
+  margin-right: 10px;
+}
+
+.summary {
+  font-size: 16px;
+  font-weight: 700;
+  background: #31c6f5; /* Your Watch Dogs-style cyan */
+  color: #000000;       /* Text color for contrast */
+  text-shadow: none;
+  padding: 6px 10px;
+  margin: 0px -2px 6px -2px;
+  box-shadow: inset 0 -1px 0 rgba(0,0,0,0.2);
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+}
+
+.time {
+  font-size: 16px;
+  font-weight: 700;
+  background: transparent;
+  color: @text-color;
+  text-shadow: none;
+  margin-right: 18px;
+}
+
+.body {
+  font-size: 16px;
+  font-weight: 600;
+  background: transparent;
+  color: #ECEFF4;
+  text-shadow: none;
+}
+
+
+
+/* Apply layout and transparency only to the control center itself */
+.control-center {
+  background: rgba(11, 11, 12, 0.8);
+  border: 2px solid #31c6f5;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+/* Apply Orbitron font to all inner elements inside control center */
+.control-center,
+.control-center * {
+  font-family: "Heletica Nue Medium", monospace;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+
+.control-center-list {
+  background: rgba(11, 11, 12, 0.6);
+  border-radius: 20px;  /* Match the roundness */
+}
+
+.control-center-list-placeholder {
+  opacity: 0.5;
+}
+
+.floating-notifications {
+  background: transparent;
+}
+
+.blank-window {
+  background: alpha(black, 0.1);
+}
+
+.control-center .notification-row:focus,
+.control-center .notification-row:hover {
+  opacity: 1;
+  background:rgba(11, 11, 12, 0.6);
+}
+
+
+
+
